@@ -7,7 +7,7 @@
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "auth_code"
     },
     "randomSeed": true,
     
