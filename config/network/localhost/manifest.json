@@ -1,9 +1,9 @@
 {
     "year": "2003",
     "serverAddress": "localhost",
-    "serverName": "ECHELON ACCESS NODE",
+    "serverName": "ECHELON INTRANET NODE",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "termY56",
     "defaultUser": {
         "userId": "user",
         "password": "",
