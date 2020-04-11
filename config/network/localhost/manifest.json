@@ -3,7 +3,7 @@
     "serverAddress": "localhost",
     "serverName": "ECHELON INTRANET NODE",
     "iconName": "Moon-icon.png",
-    "terminalID": "termY56",
+    "terminalID": "NODEY56",
     "defaultUser": {
         "userId": "user",
         "password": "",
